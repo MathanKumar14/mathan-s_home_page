@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Ranchers&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+
+#nav_head{
+    color: beige;
+    font-family: 'Ranchers', cursive;
+    text-align: center;
+}
+
+.container{
+    color: #343A40;
+}
+
+ul{
+  
+    list-style-type:none;
+    font-size: 25px;
+    text-align: center;
+    
+}
+
+.container{
+    margin-bottom: 500px;
+}
